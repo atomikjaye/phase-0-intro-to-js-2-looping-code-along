@@ -51,4 +51,7 @@ function countDown(num) { // while loop (for assignment)
     num--
   }
 }
-// countDown(20);
+// countDown(20);`
+
+// Accidentally cloned original repo
+// Change Git URL: https://devconnected.com/how-to-change-git-remote-origin/
